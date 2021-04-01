@@ -1,3 +1,4 @@
+Anh đang làm việc cho người âm. Em có ai thấy âm hồn nào không🙏? 
 ---
 title: Azure Security Center's features according to OS, machine type, and cloud
 description: Learn about which Azure Security Center features are available according to their OS, type, and cloud deployment.
